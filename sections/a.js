@@ -1,1 +1,1 @@
-console.log('a2.js')
+console.log('a2.js');
